@@ -3,7 +3,8 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](powerbi/PowerBI_Dashboard_Example.png)
+![Retail Dashboard](https://github.com/ShravyaV03/Retail-Sales-ETL-Forecast/blob/main/Retail-Sales-ETL-Forecast/assets/dashboard.png?raw=true)
+
 
 ---
 
